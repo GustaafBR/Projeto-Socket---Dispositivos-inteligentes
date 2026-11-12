@@ -4,7 +4,7 @@ Trabalho da disciplina de **Lógica de Programação** (Prof. Márcio Clay).
 
 Aplicação **cliente/servidor** em Python, usando a biblioteca `socket` e o protocolo **TCP**, que simula o controle de dispositivos inteligentes de uma residência. Cada dispositivo (lâmpada, tomada, sensor de presença, ar-condicionado e termômetro) é um **cliente** independente, e todos se comunicam com um **servidor central** multithread que aplica as regras de automação da casa.
 
-**Autores:** _Gustavo Araújo_
+**Autor:** _Gustavo Araújo_
 
 ---
 
